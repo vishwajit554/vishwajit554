@@ -1,6 +1,3 @@
-<!-- Banner Image -->
-<img src="https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/arm-ttk/img/azure.png" alt="Azure Banner" style="width:100%;" />
-
 # 👋 Hey, I'm Vishwajeet Kadam
 
 🎯 **Azure Data Engineer** | Crafting scalable cloud-based ETL pipelines using Microsoft Azure  
@@ -37,23 +34,25 @@ I'm a passionate **Azure Data Engineer** with hands-on experience in building cl
 
 📌 [GitHub Repo](#)
 
-🧩 **Project Architecture:**
+---
 
-![Azure Data Engineering Flow](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemE5ZHBwYWZqazZnZWdjZ3N6czZ0aHI2dWdxc2dvYXB1NW1rMm0xYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif)
+## 🛠 Medallion Architecture Overview
+
+![Medallion Architecture](https://learn.microsoft.com/en-us/azure/databricks/lakehouse/medallion/media/medallion-architecture.png)
 
 ---
 
 ## 📈 Currently Learning
 
-- Azure Synapse Analytics
-- Azure DevOps CI/CD Pipelines
-- Data Quality Frameworks
+- Azure Synapse Analytics  
+- Azure DevOps CI/CD Pipelines  
+- Data Quality Frameworks  
 
 ---
 
 ## 📫 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/vishwajeet-kadam-723331334)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/vishwajeet-kadam-723331334)  
 - 📂 [GitHub Profile](https://github.com/vishwajit554)
 
 ---
